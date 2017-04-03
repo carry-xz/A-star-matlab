@@ -1,2 +1,2 @@
 # A-star-matlab
- Astar algorithm of matlab code
+ Astar algorithm Demo of matlab code
