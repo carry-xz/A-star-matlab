@@ -1,5 +1,4 @@
 function mydrawnow(starNum,goalNum,banList,closeList,openlist,n)
-dbstop if error
 x = 0:1:n;
 y = 0:1:n;
 [x,y]=meshgrid(x,y);
