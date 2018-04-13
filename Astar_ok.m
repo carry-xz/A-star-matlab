@@ -1,5 +1,5 @@
 %% A*路径规划算法
-%%by xiongzhan 20170325
+%%by xz 20170325
 clc;
 clear;
 % pause(3); 
